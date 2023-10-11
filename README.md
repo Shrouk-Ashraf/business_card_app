@@ -1,6 +1,6 @@
 # business_card_app
 
-This is a flutter project that uses some of important widgets as:
+This is a flutter screen that uses some of important widgets as:
 - 
 - Container.
 - Column.
