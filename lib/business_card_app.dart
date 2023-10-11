@@ -40,6 +40,12 @@ class BusinessCardApp extends StatelessWidget {
                       fontWeight: FontWeight.bold
                     ),
                   ),
+                  Divider(
+                    color: Colors.white12,
+                    thickness: 1,
+                    indent: 60,
+                    endIndent: 60,
+                  ),
                   Card(
                     margin: EdgeInsets.symmetric(
                       vertical: 10,
